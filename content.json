@@ -1,0 +1,101 @@
+{
+  "General": [
+    {
+      "id": "cat-restaurants",
+      "title": "Restaurants",
+      "shortDescription": "Browse nearby places to eat.",
+      "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/icons/restaurants.png",
+      "releaseDate": "2025-09-16"
+    },
+    {
+      "id": "cat-music",
+      "title": "Live Music",
+      "shortDescription": "Artists and bios.",
+      "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/icons/music.png",
+      "releaseDate": "2025-09-16"
+    },
+    {
+      "id": "cat-shopping",
+      "title": "Shopping",
+      "shortDescription": "Shops and stores.",
+      "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/icons/shopping.png",
+      "releaseDate": "2025-09-16"
+    },
+    {
+      "id": "cat-entertainment",
+      "title": "Entertainment",
+      "shortDescription": "Things to do.",
+      "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/icons/entertainment.png",
+      "releaseDate": "2025-09-16"
+    }
+  ],
+  "Restaurants": [
+    {
+      "id": "rest-wendys",
+      "title": "Wendy's",
+      "longDescription": "Square burgers, spicy nuggets, baked potatoes, and Frosty desserts.",
+      "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/restaurants/wendys.png",
+      "releaseDate": "1969-11-15"
+    },
+    {
+      "id": "rest-dominos",
+      "title": "Domino's",
+      "longDescription": "Pizza, pasta, and wings with fast delivery and carryout.",
+      "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/restaurants/dominos.png",
+      "releaseDate": "1960-12-09"
+    },
+    {
+      "id": "rest-mcdonalds",
+      "title": "McDonald's",
+      "longDescription": "World famous fries, Big Mac, McNuggets, and breakfast classics.",
+      "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/restaurants/mcdonalds.png",
+      "releaseDate": "1955-04-15"
+    },
+    {
+      "id": "rest-tacobell",
+      "title": "Taco Bell",
+      "longDescription": "Tacos, burritos, quesadillas, and late night menu favorites.",
+      "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/restaurants/tacobell.png",
+      "releaseDate": "1962-03-21"
+    },
+    {
+      "id": "rest-chipotle",
+      "title": "Chipotle",
+      "longDescription": "Build your own burritos, bowls, tacos, and salads with fresh ingredients.",
+      "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/restaurants/chipotle.png",
+      "releaseDate": "1993-07-13"
+    }
+  ],
+  "Music": [
+    {
+      "id": "artist-lil-wayne",
+      "title": "Lil Wayne",
+      "longDescription": "Grammy winning rapper known for wordplay, mixtapes, and chart hits.",
+      "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/artists/lil-wayne.jpg",
+      "releaseDate": "1999-09-07"
+    },
+    {
+      "id": "artist-metallica",
+      "title": "Metallica",
+      "longDescription": "Legendary metal band behind Master of Puppets and the Black Album.",
+      "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/artists/metallica.jpg",
+      "releaseDate": "1983-07-25"
+    },
+    {
+      "id": "artist-foo-fighters",
+      "title": "Foo Fighters",
+      "longDescription": "Rock band formed by Dave Grohl with anthems and arena shows.",
+      "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/artists/foo-fighters.jpg",
+      "releaseDate": "1995-07-04"
+    },
+    {
+      "id": "artist-the-weeknd",
+      "title": "The Weeknd",
+      "longDescription": "Pop and R&B artist known for atmospheric vocals and global hits.",
+      "thumbnail": "https://raw.githubusercontent.com/your-org/your-repo/main/assets/artists/the-weeknd.jpg",
+      "releaseDate": "2011-03-21"
+    }
+  ],
+  "Shopping": [],
+  "Entertainment": []
+}
